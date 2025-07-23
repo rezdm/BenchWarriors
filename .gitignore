@@ -1,6 +1,9 @@
 [Bb]in
 [Oo]bj
+.idea
 *.obj
 *.exe
 *.dll
 *.class
+test_results.txt
+test_results.txt.filtered
