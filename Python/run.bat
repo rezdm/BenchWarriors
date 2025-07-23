@@ -1,0 +1,5 @@
+set PYTHONDONTWRITEBYTECODE=1
+set PYTHONHASHSEED=0
+set PYTHONMALLOC=pymalloc
+
+py -OO tests.py
