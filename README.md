@@ -124,7 +124,6 @@ system information:
 ------------------
 manufacturer: Dell Inc.
 model: Precision 5680
-serial number: 9V5FB24
 
 additional details:
 ------------------
