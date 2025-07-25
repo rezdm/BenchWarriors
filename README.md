@@ -8,8 +8,10 @@ Later I decided to extend the project and add more languages:
 - Java 17+, JDK 24
 - C++ 17+, MS VS 2022
 - SQL, SQL Server 2022 -- this one is definitely interesting, but there are so many optimizations that can and should happen under the hood that this is a challenge on its own
+- Python (just python -- no numpy, pypy, numba, etc)
 
 Planned:
+- R
 - Rust
 - Go
 - May be JS
